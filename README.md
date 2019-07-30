@@ -13,7 +13,7 @@ Build the code using `make`.
 
 You should now be able to run it using:
 
-`$ ./cachesim Data/L3-unified-2way.conf \< Data/test.workload`
+`$ ./cachesim Data/L3-unified-2way.conf < Data/test.workload`
 
 This will run an example configured as:
 * unified L1 totalling 32KiB, direct-mapped, divided into 32B blocks
