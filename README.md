@@ -20,6 +20,7 @@ This will run an example configured as:
 * 256KiB (262144B) L2, 2-way associative, 32B blocks
 * 4MiB (4194304B) L3, 2-way associative, 64B blocks
 * DRAM: no misses just a cost to access
+
 Run it and check its outputs and compare against the configuration file.
 
 To convert to a split (instruction and data) L1, repeat the first line,
